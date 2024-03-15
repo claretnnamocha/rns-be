@@ -72,6 +72,7 @@
     "passport-twitter": "^1.0.4",
     "pg": "^8.8.0",
     "prettier": "^2.3.2",
+    "puppeteer": "^22.4.1",
     "randomstring": "^1.2.3",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
