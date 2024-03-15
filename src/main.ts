@@ -43,7 +43,7 @@ async function bootstrap() {
     }),
   );
 
-  await app.listen(9080);
+  await app.listen(8080);
 
   const link = config.BASE_URL;
   const docLink = `${link}/api/documentation`;
